@@ -14,6 +14,4 @@ Installation:
 
 • python key.py
 
-# Screenshots
-
-key.png
+[#] Enjoy [#]
