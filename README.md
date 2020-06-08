@@ -13,3 +13,7 @@ Installation:
 • cd key
 
 • python key.py
+
+# Screenshots
+
+key.png
