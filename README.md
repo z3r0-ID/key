@@ -2,14 +2,14 @@
 
 Installation:
 
-•apt update && apt upgrade
+• apt update && apt upgrade
 
-•apt install python
+• apt install python
 
-•apt install git
+• apt install git
 
-•git clone https://github.com/MrCimin/key
+• git clone https://github.com/MrCimin/key
 
-•cd key
+• cd key
 
-•python key.py
+• python key.py
